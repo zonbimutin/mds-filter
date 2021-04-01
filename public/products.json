@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "name": "faith yarn",
+      "image": "/products/faith-yarn-Wr0TpKqf26s-unsplash.jpg",
+      "tags": [
+        "t-shirt",
+        "black"
+      ]
+    },
+    {
+      "name": "baskets",
+      "image": "/products/joseph-barrientos-4qSb_FWhHKs-unsplash.jpg",
+      "tags": [
+        "shoes",
+        "white"
+      ]
+    },
+    {
+      "name": "jeans",
+      "image": "/products/mnz-m1m2EZOZVwA-unsplash.jpg",
+      "tags": [
+        "pants",
+        "jean"
+      ]
+    },
+    {
+      "name": "cup",
+      "image": "/products/nordwood-themes-nDd3dIkkOLo-unsplash.jpg",
+      "tags": [
+        "cup",
+        "white"
+      ]
+    },
+    {
+      "name": "shoes red",
+      "image": "/products/revolt-164_6wVEHfI-unsplash.jpg",
+      "tags": [
+        "shoes",
+        "red"
+      ]
+    },
+    {
+      "name": "books",
+      "image": "/products/studio-media-9DaOYUYnOls-unsplash.jpg",
+      "tags": [
+        "books"
+      ]
+    },
+    {
+      "name": "cap",
+      "image": "/products/yang-deng-2loKxdi6Hmo-unsplash.jpg",
+      "tags": [
+        "cap",
+        "black"
+      ]
+    }
+  ]
+}
